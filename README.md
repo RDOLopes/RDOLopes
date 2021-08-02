@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raphael</h1>
 <h3 align="center">A brazilian developer</h3>
 
-- 🌱 I’m currently learning **Python with FasTApi, SQLAlchemy**
+- 🌱 I’m currently learning an working **Python with FasTApi, SQLAlchemy**
 
 - 📫 How to reach me **doliveiralopes@yahoo.com.br**
 
